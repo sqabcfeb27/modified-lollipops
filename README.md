@@ -1,9 +1,9 @@
-# Basic Project
-## Basic Project Structure
+# Modified Lollipops Project
+## Basic Java Application
 
-*Default Structure for A Basic Project*
+*Application which counts lollipops for children*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4
